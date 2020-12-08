@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Registration</string>
+    <string name="username">Kullanıcı Adınızı Giriniz</string>
+    <string name="email">E-mail adresinizi Giriniz</string>
+    <string name="password">Şifrenizi Giriniz</string>
+    <string name="register">Üye değil misiniz?   Kaydolun</string>
+    <string name="login">Üye misiniz?   Giriş Yapın</string>
+    <string name="loginText">Giriş Yap</string>
+    <string name="registerText">Kaydol</string>
+</resources>
